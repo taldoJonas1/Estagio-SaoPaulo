@@ -1,0 +1,15 @@
+Passo 1: K = 1, SOMA = SOMA + 1 = 1
+Passo 2: K = 2, SOMA = SOMA + 2 = 3
+Passo 3: K = 3, SOMA = SOMA + 3 = 6
+Passo 4: K = 4, SOMA = SOMA + 4 = 10
+Passo 5: K = 5, SOMA = SOMA + 5 = 15
+Passo 6: K = 6, SOMA = SOMA + 6 = 21
+Passo 7: K = 7, SOMA = SOMA + 7 = 28
+Passo 8: K = 8, SOMA = SOMA + 8 = 36
+Passo 9: K = 9, SOMA = SOMA + 9 = 45
+Passo 10: K = 10, SOMA = SOMA + 10 = 55
+Passo 11: K = 11, SOMA = SOMA + 11 = 66
+Passo 12: K = 12, SOMA = SOMA + 12 = 78
+Passo 13: K = 13, SOMA = SOMA + 13 = 91
+
+Ao final do processamento, o valor da variável SOMA será 91.
